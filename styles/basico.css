@@ -6,8 +6,7 @@ body{
  background-color:#003523;
  color: #C5A795;
  text-align:center;
- 
-}
+ }
 .container{margin: 0 auto; text-align=left; width: 1000px; height: 100%;}
 a{text-decoration: none;}
 .menu_ppl ul {position: absolute; bottom: 0px;}
