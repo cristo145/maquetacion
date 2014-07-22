@@ -9,10 +9,33 @@ body{
  }
 .container{margin: 0 auto; text-align=left; width: 1000px; height: 100%;}
 a{text-decoration: none;}
-.menu_ppl {position: absolute; bottom: 0px; width: 100%; overflow: hidden;}
+.menu_ppl {bottom: 100px; width: 100%; overflow: hidden;}
 ul .buttom_pag{margin: 0; padding: 0; }
 li{list-style-type: none; display: inline; font-size: 16px;}
-.wrapper{width: 900px; height: 400px;}
+.wrapper{ width: 900px; height: 400px;background-size:100% 100%; background-image: url(http://www.mejores-planes-viaje-nueva-york.com/wp-content/uploads/2013/06/Cuarto-Hotel-Kitano-Nueva-York.jpg); background-repeat: no-repeat;}
 .buttom_pag{border: 2px solid #68351F; color: white; margin: 2px; width: 250px;}
 .title, .logo{display:inline;}
 .tel{display: table; float: right; font-size: 22px;}
+.reservation{float:left; width: 200px; height: 400px; background-color:black; border-style: solid;
+    border-color: #ffac00;}
+.saves{float:center; width: 900px; height: 400px;}
+footer{
+margin-top:100px;
+position: relative;
+width: 100%;
+text-align:center;
+}
+.footer_left{float:left;}
+.footer_center{float:center;}
+.footer_right{float:right;}
+
+
+
+/* 
+position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+*/
